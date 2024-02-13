@@ -8,7 +8,7 @@ fr:
   params:
     social:
   permalinks:
-    persons: /equipe/:slug/
+    persons: /les-pionnieres/:slug/
   taxonomies:
     administrator: administrators
     author: authors
