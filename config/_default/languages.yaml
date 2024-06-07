@@ -10,7 +10,7 @@ fr:
     social:
   permalinks:
     persons: /les-pionnieres/:slug/
-    persons_categories: /les-pionnieres/:slug/
+    persons_categories: /les-pionnieres/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
