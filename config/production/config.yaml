@@ -2,6 +2,11 @@
 
 baseURL: https://pionnieres.chloemasse.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: d4f22c90-7d00-4e7b-b12e-7648df554bda
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
