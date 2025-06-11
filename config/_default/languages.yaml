@@ -10,10 +10,6 @@ fr:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    persons: /les-pionnieres/:slug/
-    persons_categories: /les-pionnieres/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
