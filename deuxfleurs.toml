@@ -15,14 +15,14 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/les-pionnieres/"
 
 [[redirects]]
-from = "/equipe/joan-clarke/"
+from = "/equipe/joan-clarke/index.html"
 to = "/les-pionnieres/joan-clarke/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/les-pionnieres/equipe-editoriale/"
 
